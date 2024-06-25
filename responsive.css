@@ -1,0 +1,316 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.wu-section-fresh{
+
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color: #323f4b
+
+}
+.wu-section-fresh-para{
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;    
+
+}
+.wu-image-fresh-food{
+    height: 90px;
+    width: 90px;
+}
+.wu-fresh-food{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+
+}
+.wu-card{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.wu-section-description{
+    font-family: "Roboto";
+    font-size: 19px;
+    color: black;
+    font-weight: bold;
+
+}
+.wu-section-title{
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color: #323f4b
+
+}
+.wu-image-section{
+    height: 90px;
+    width: 90px;
+}
+.button-design2{
+    height: 50px;
+    width: 110px;
+    color: white;
+    background-color: transparent;
+    border: 1px soild;
+    border-radius: 10px;
+    border-color: orange;
+    margin-right: 10px;
+
+}
+.button-design1{
+    height: 50px;
+    width: 110px;
+    color: white;
+    background-color: orange;
+    border: 0px;
+    border-radius: 10px;
+    margin-right: 10px;
+
+}
+.para-design{
+    color: white;
+    font-family: "Roboto";
+    font-weight: 300;
+    font-style: italic;
+    font-size: 50px;
+
+}
+.head-design{
+    color: white;
+    font-family: "monoton";
+    font-weight: 300;
+    font-style: italic;
+    font-size: 70px;
+}
+#navitem1{
+    color:black;
+    font-family: "Roboto";
+}
+
+#navitem2{
+    color:black;
+    font-family: "Roboto";
+}
+
+#navitem3{
+    color:black;
+    font-family: "Roboto";
+}
+
+#navitem4{
+    color:black;
+    font-family: "Roboto";
+}
+
+.food{
+    height: 150px;
+    width: 150px;
+}
+
+.food-munch-logo{
+
+    height: 100vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+}
+
+.wu-section{
+    background-color: #f9fbfe;
+
+}
+.wu-heading-section{
+    color: gray;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+.wu-section-paragraph{
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+/* Explore menu Section */
+.Explore-menu-section{
+    background-color: #f9fbfe;
+
+}
+
+
+.ep-menu-heading{
+    color: gray;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+}
+.ep-menu-image{
+    border-radius: 16px;
+    height: 304px;
+    width: 290px;
+}
+.ep-menu-items{
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.ep-menu-link{
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+.a{
+    border-radius: 16px;
+}
+
+
+/* Fresh,Heatlth,Organic,Delicious Fruits Section */
+.Fh-container-section{
+    background-color: #f9fbfe;
+}
+.Fh-image-section{
+    height: 250px;
+    width: 290px;
+    border-radius: 10px;
+}
+
+.Fh-Heading-section{
+    color: gray;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+}
+.Fh-paragraph-section{
+    color: black;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 200;
+    font-style: italic;
+}
+.Fh-button-section{
+    height: 50px;
+    width: 110px;
+    color: white;
+    background-image: linear-gradient(#d0b200,#a58d00);
+    background-color: orange;
+    border: 0px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.Payment-and-Delivery-section{
+    background-color: white;
+     
+}
+.PD-image-section{
+    height: 250px;
+    width: 290px;
+    border-radius: 10px;
+
+}
+
+.PD-Heading-section{
+    color: gray;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+}
+
+.PD-Paragraph-section{
+    color: black;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 200;
+    font-style: italic;
+
+}
+
+.Pd-image{
+    height: 90px;
+    width: 90px;
+    margin-right: 16px;
+}
+
+.Gift-Redeem-section{
+    background-image: radial-gradient(#fff8db,#fae38c);
+}
+
+.Gift-Redeem-section1{
+    color: gray;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.Follow-Us-Section{
+    background-color: white;
+    border-radius: 3px;
+}
+.Follow-Us-Section-Heading{
+    color: #420420;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+}
+
+.icon{
+    color: black;
+    font-size: 32px;
+}
+.icon1{
+    color: black;
+    font-size: 32px;
+}
+.icon2{
+    color: black;
+    font-size: 32px;
+}
+.icon-styling{
+    border-radius: 40px;
+    width: 80px;
+    height: 80px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 15px
+}
+
+.bu{
+    color: orange;
+    font-size: 20px;
+}
+.s{
+    width: 100%;
+}
+
+.Email-section{
+    background-image: radial-gradient(white,pink)
+}
+
+.w{
+    color: #555555;
+    font-size: 16px;
+}
